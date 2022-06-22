@@ -1,0 +1,22 @@
+{
+  "name": "skarner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "sass": "sass sass/style.scss style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Doryae/Skarner.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Doryae/Skarner/issues"
+  },
+  "homepage": "https://github.com/Doryae/Skarner#readme",
+  "dependencies": {
+    "sass": "^1.52.3"
+  }
+}
